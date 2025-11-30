@@ -1,6 +1,0 @@
-{
-  "items": [
-    { "id": 1, "name": "Belajar Node.js", "done": false },
-    { "id": 2, "name": "Deploy ke Vercel", "done": true }
-  ]
-}
